@@ -1,4 +1,4 @@
-export default function check1(number, initial_base, change_base) {
+export default function (number, initial_base, change_base) {
   let response = 0;
   let max_number_value = null;
   let division_number = 0;
